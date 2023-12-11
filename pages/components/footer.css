@@ -1,0 +1,6 @@
+.footer {
+  display: grid;
+  grid-template-columns: 1fr 1fr 4fr;
+  background-color: #efefef;
+  margin-top: 40px;
+}
